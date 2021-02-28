@@ -1,6 +1,6 @@
 <?php
 
 
-echo "my new wolrd"
+echo "meu novo mundo"
 
 ?>
